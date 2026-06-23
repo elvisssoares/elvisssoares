@@ -1,6 +1,4 @@
 Olá, meu nome é Elvis Soares, estou cursando Análise e Desenvolvimento de Sistemas 👋
-
-- 🌱 Atualmente estou me aprofundando em JavaScript
 - 😄 Pronomes: Ele/Dele
 
 ##
